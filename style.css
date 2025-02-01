@@ -36,6 +36,14 @@ html, body {
 	width: 384px;
 	background-color: var(--card-white);
 	display: block;
+	padding: 24px;
+	border-radius: 20px;
+}
+
+.main-image img {
+	border-radius: 10px;
+	height: 200px;
+	margin-bottom: 24px;
 }
 
 
