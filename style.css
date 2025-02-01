@@ -21,6 +21,8 @@ html, body {
 	margin: 0;
 	font-family: var(--font-family);
 	background-color: var(--background-yellow);
+	font-size: var(--font-size);
+	line-height: 1.5;
 }
 
 .container {
@@ -40,16 +42,89 @@ html, body {
 	border-radius: 20px;
 }
 
-.main-image img {
+.blog-image img {
 	border-radius: 10px;
 	height: 200px;
 	margin-bottom: 24px;
 }
 
 
+.content {
+	margin-bottom: 24px;
+}
+
+
+.content p {
+	margin: 12px 0 0;
+	font-weight: var(--font-weight);
+	font-size: var(--font-size);
+}
+
+
+.content #category {
+	color: var(--gray-950);
+	font-size: 14px;
+	font-weight: var(--headline-weight);
+	background-color: var(--background-yellow);
+	padding: 6px 12px;
+	border-radius: 4px;
+}
+
+
+.content #publish-date {
+	font-size: 14px;
+	padding: 0;
+}
+
+
+.content #title {
+	color: var(--gray-950);
+	font-size: 24px;
+	font-weight: var(--headline-weight);
+}
+
+
+.content #description {
+	color: var(--gray-500);
+	font-weight: var(--font-weight);
+}
+
+
+.author {
+	display: inline-block;
+	font-size: 14px;
+	margin: 0;
+}
+
+
+.author img {
+	height: 32px;
+	margin-right: 12px;
+}
+
+
+.author img, .author #author-name {
+	vertical-align: middle;
+}
+
+
+.author #author-name {
+	font-weight: var(--headline-weight);
+	color: var(--gray-950);
+}
+
+#footer {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	margin: 12px;
+}
+
+
 .attribution { 
 	font-size: 11px; text-align: center; 
 }
+
 
 .attribution a { 
 	color: hsl(228, 45%, 44%); 
