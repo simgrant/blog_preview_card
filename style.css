@@ -18,19 +18,24 @@
 }
 
 html, body {
-	height: 100%;
 	margin: 0;
 	font-family: var(--font-family);
 	background-color: var(--background-yellow);
 }
 
 .container {
+	height: 100%;
+	display: block;
+}
+
+.card {
 	position: absolute;
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
-	width: 300px;
+	width: 384px;
 	background-color: var(--card-white);
+	display: block;
 }
 
 
@@ -45,7 +50,9 @@ html, body {
 
 
 @media (min-width: 375px) {
-
+	.container {
+		width: 327px;
+	}
 }
 
 @media (max-width: 1440px) {
