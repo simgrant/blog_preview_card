@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img width="1431" alt="Screenshot 2025-02-03 at 12 49 34 PM" src="https://github.com/user-attachments/assets/76330ce8-8e6c-4c49-88f0-1d4a4689e6d1" />
+<img width="1162" alt="Screenshot 2025-02-03 at 2 09 57 PM" src="https://github.com/user-attachments/assets/2e35ce03-ae0d-4480-ac4e-de491813e24c" />
 
 ### Links
 
