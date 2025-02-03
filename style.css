@@ -45,7 +45,7 @@ html, body {
 	background-color: var(--card-white);
 	display: block;
 	padding: var(--main-spacing);
-	border-radius: 10px;
+	border-radius: 20px;
 	border: 1px solid rgba(0, 0, 0, 0.9);
 	box-shadow: 8px 9px 0 rgba(0, 0, 0, 0.9);
 }
@@ -153,7 +153,7 @@ html, body {
 		width: 336px;
 		object-fit: cover;
 		overflow: hidden;
-		border-radius: 20px;
+		border-radius: 10px;
 		margin-bottom: var(--main-spacing);
 	}
 
