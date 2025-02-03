@@ -54,6 +54,8 @@ html, body {
 	border-radius: 10px;
 	width: 279px;
 	margin-bottom: var(--main-spacing);
+	object-fit: cover;
+	overflow: hidden;
 }
 
 
@@ -151,9 +153,6 @@ html, body {
 
 	.blog-image img {
 		width: 336px;
-		object-fit: cover;
-		overflow: hidden;
-		border-radius: 10px;
 		margin-bottom: var(--main-spacing);
 	}
 
