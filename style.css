@@ -45,7 +45,7 @@ html, body {
 	background-color: var(--card-white);
 	display: block;
 	padding: var(--main-spacing);
-	border-radius: 20px;
+	border-radius: 10px;
 	border: 1px solid rgba(0, 0, 0, 0.9);
 	box-shadow: 8px 9px 0 rgba(0, 0, 0, 0.9);
 }
@@ -65,12 +65,12 @@ html, body {
 .content p {
 	margin: 12px 0 0;
 	font-weight: var(--font-weight);
-	font-size: var(--main-font-size);
 }
 
 
 .content #category {
 	color: var(--gray-950);
+	font-size: var(--tertiary-font-size);
 	font-weight: var(--headline-weight);
 	background-color: var(--background-yellow);
 	padding: 6px 12px;
@@ -153,7 +153,7 @@ html, body {
 		width: 336px;
 		object-fit: cover;
 		overflow: hidden;
-		border-radius: 10px;
+		border-radius: 20px;
 		margin-bottom: var(--main-spacing);
 	}
 
