@@ -1,4 +1,4 @@
-#Frontend Mentor - Blog preview card solution
+# Frontend Mentor - Blog preview card solution
 
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+<img width="1431" alt="Screenshot 2025-02-03 at 12 49 34 PM" src="https://github.com/user-attachments/assets/76330ce8-8e6c-4c49-88f0-1d4a4689e6d1" />
 
 ### Links
 
