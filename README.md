@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://simgrant.github.io/blog_preview_card/)
+- Solution URL: [solution](https://simgrant.github.io/blog_preview_card/)
 
 ## My process
 
